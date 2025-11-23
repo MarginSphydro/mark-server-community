@@ -1,0 +1,1127 @@
+7bc94645-2e2f-3e93-8121-ba028d84c15b:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_GOLDEN_APPLE
+        amount: 64
+5503c1c8-a87b-364b-bb5c-9f4aff16989b:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENDER_PEARL
+        amount: 16
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENCHANTED_GOLDEN_APPLE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: ENDER_CHEST
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+f93d0f93-fd38-3114-8457-0b00069a1bad:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+2c7d8028-51ba-3c5d-a803-5ddd5ebd0a7d:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+c7c8ed3b-bbef-30b2-9633-725422ffcdad:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+77ba9be4-33da-34ea-b7cd-b344b31e3f68:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+c9a2cf10-de89-3940-aace-508d8b593273:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: OBSIDIAN
+        amount: 64
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+c2d2e032-c528-30d7-948f-483a5af906f4:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_HELMET
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            WATER_WORKER: 1
+            PROTECTION_EXPLOSIONS: 4
+            MENDING: 1
+            OXYGEN: 3
+            DURABILITY: 3
+            VANISHING_CURSE: 255
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_CHESTPLATE
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_EXPLOSIONS: 4
+            MENDING: 1
+            DURABILITY: 3
+            VANISHING_CURSE: 255
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_LEGGINGS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_EXPLOSIONS: 4
+            MENDING: 1
+            DURABILITY: 3
+            VANISHING_CURSE: 255
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: NETHERITE_BOOTS
+        meta:
+          ==: ItemMeta
+          meta-type: ARMOR
+          enchants:
+            PROTECTION_EXPLOSIONS: 4
+            DEPTH_STRIDER: 3
+            PROTECTION_FALL: 4
+            MENDING: 1
+            DURABILITY: 3
+            VANISHING_CURSE: 255
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '8':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '9':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '10':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '11':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '12':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '13':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '14':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '15':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: END_CRYSTAL
+        amount: 64
+      '16':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: GLOWSTONE
+        amount: 64
+      '17':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+      '18':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '19':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: TOTEM_OF_UNDYING
+      '20':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '21':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '22':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '23':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: PISTON
+        amount: 64
+      '24':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: REDSTONE_BLOCK
+        amount: 64
+      '25':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: RESPAWN_ANCHOR
+        amount: 64
+      '26':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: COBWEB
+        amount: 64
+92370673-f7ee-3b19-af80-2a2058e509f4:
+  Kit 1:
+    enderchest:
+      '0':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '1':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '2':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '3':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '4':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '5':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '6':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64
+      '7':
+        ==: org.bukkit.inventory.ItemStack
+        v: 3700
+        type: EXPERIENCE_BOTTLE
+        amount: 64

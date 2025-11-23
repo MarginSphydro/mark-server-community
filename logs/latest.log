@@ -1,0 +1,235 @@
+[12:30:42] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:30:45] [ServerMain/INFO]: Loaded 1174 recipes
+[12:30:45] [ServerMain/INFO]: Loaded 1271 advancements
+[12:30:46] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:30:46] [Server thread/WARN]: ****************************
+[12:30:46] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[12:30:46] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[12:30:46] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[12:30:46] [Server thread/WARN]: ****************************
+[12:30:46] [Server thread/INFO]: Loading properties
+[12:30:46] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 93a848c)
+[12:30:47] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:30:47] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:30:48] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[12:30:48] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[12:30:48] [Server thread/INFO]: Default game type: SURVIVAL
+[12:30:48] [Server thread/INFO]: Generating keypair
+[12:30:48] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[12:30:48] [Server thread/INFO]: Using default channel type
+[12:30:48] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[12:30:48] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:30:49] [Server thread/INFO]: [NoCheatPlus] Loading server plugin NoCheatPlus v3.17.1-SNAPSHOT-Updated-b198
+[12:30:49] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[12:30:49] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[12:30:49] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.20.4
+[12:30:49] [Server thread/INFO]: [KitsX] Loading server plugin KitsX v1.0.3
+[12:30:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:30:49] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:30:49] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:30:49] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:30:49] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:30:49] [Server thread/INFO]: Preparing level "world"
+[12:30:50] [Server thread/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[12:30:52] [Server thread/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[12:30:52] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:30:52] [Server thread/INFO]: Time elapsed: 185 ms
+[12:30:52] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:30:53] [Server thread/INFO]: Time elapsed: 1104 ms
+[12:30:53] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:30:54] [Server thread/INFO]: Time elapsed: 229 ms
+[12:30:54] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b198
+[12:30:54] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.13-1.21|? / Bukkit-API
+[12:30:55] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[12:30:55] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[12:30:55] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+[12:30:55] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b198 is enabled.
+[12:30:55] [Server thread/INFO]: [KitsX] Enabling KitsX v1.0.3
+[12:30:55] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.event.EventExecutor
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:463)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:454)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.registerEvent(PaperCommodore.java:60)
+[12:30:55] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.registerEventHandlerWithReflection(PaperCommodore.java:49)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.<init>(PaperCommodore.java:39)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.CommodoreProvider.getCommodore(CommodoreProvider.java:53)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.Utils.<init>(Utils.java:32)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.Utils.init(Utils.java:50)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.kitsx.KitsX.start(KitsX.java:59)
+[12:30:55] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.wrapper.PluginWrapper.onEnable(PluginWrapper.java:37)
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281)
+[12:30:55] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:190)
+[12:30:55] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104)
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507)
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugin(CraftServer.java:637)
+[12:30:55] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugins(CraftServer.java:548)
+[12:30:55] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:673)
+[12:30:55] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:433)
+[12:30:55] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:308)
+[12:30:55] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1132)
+[12:30:55] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:321)
+[12:30:55] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1447)
+[12:30:55] [Server thread/INFO]: KitsX › The plugin has been successfully enabled, created by XyrisPlugins with ❤
+[12:30:55] [Server thread/INFO]: KitsX › Join our support server at https://xyris.fun/devs/
+[12:30:55] [Server thread/INFO]: KitsX › Buildable edition made by MarginSphydro (Minecraft IGN:mark_7601)
+[12:30:55] [Server thread/INFO]: KitsX › https://github.com/MarginSphydro/KitsX-Buildable
+[12:30:56] [Server thread/INFO]: Running delayed init tasks
+[12:30:56] [Craft Scheduler Thread - 2 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
+[12:30:56] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[12:30:56] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[12:30:56] [Server thread/INFO]: Done (9.931s)! For help, type "help"
+[12:30:56] [Server thread/INFO]: Timings Reset
+[12:30:56] [User Authenticator #0/INFO]: UUID of player MarginSphydro is 7ea3c5c3-6e35-36b7-9184-8698846a8f2a
+[12:30:56] [Server thread/INFO]: MarginSphydro joined the game
+[12:30:56] [Server thread/INFO]: MarginSphydro[/127.0.0.1:63724] logged in with entity id 64 at ([world]0.7105110734005774, 121.0, -0.4506739425908484)
+[12:31:04] [Server thread/INFO]: MarginSphydro issued server command: /gamemode creative
+[12:31:04] [Server thread/INFO]: [MarginSphydro: Set own game mode to Creative Mode]
+[12:31:18] [Server thread/INFO]: MarginSphydro issued server command: /pl
+[12:31:19] [Server thread/INFO]: MarginSphydro issued server command: /version NoCheatPlus
+[12:31:20] [Server thread/INFO]: MarginSphydro issued server command: /version KitsX
+[12:31:20] [Server thread/INFO]: MarginSphydro issued server command: /kitsx:kit
+[12:31:22] [Server thread/INFO]: MarginSphydro loaded the premade kit.
+[12:31:26] [Server thread/INFO]: MarginSphydro issued server command: /kitsx:kit
+[12:31:27] [Server thread/INFO]: MarginSphydro opened the Virtual Kit Room.
+[12:32:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[12:32:10] [ServerMain/INFO]: Loaded 1174 recipes
+[12:32:10] [ServerMain/INFO]: Loaded 1271 advancements
+[12:32:10] [Server thread/INFO]: Starting minecraft server version 1.20.4
+[12:32:10] [Server thread/WARN]: ****************************
+[12:32:10] [Server thread/WARN]: YOU ARE RUNNING THIS SERVER AS AN ADMINISTRATIVE OR ROOT USER. THIS IS NOT ADVISED.
+[12:32:10] [Server thread/WARN]: YOU ARE OPENING YOURSELF UP TO POTENTIAL RISKS WHEN DOING THIS.
+[12:32:10] [Server thread/WARN]: FOR MORE INFORMATION, SEE https://madelinemiller.dev/blog/root-minecraft-server/
+[12:32:10] [Server thread/WARN]: ****************************
+[12:32:10] [Server thread/INFO]: Loading properties
+[12:32:11] [Server thread/INFO]: This server is running Paper version git-Paper-388 (MC: 1.20.4) (Implementing API version 1.20.4-R0.1-SNAPSHOT) (Git: 93a848c)
+[12:32:12] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:32:12] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:32:12] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[12:32:12] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 5 worker threads, and gen parallelism of 5 threads
+[12:32:13] [Server thread/INFO]: Default game type: SURVIVAL
+[12:32:13] [Server thread/INFO]: Generating keypair
+[12:32:13] [Server thread/INFO]: Starting Minecraft server on 0.0.0.0:25565
+[12:32:13] [Server thread/INFO]: Using default channel type
+[12:32:13] [Server thread/INFO]: Paper: Using Java compression from Velocity.
+[12:32:13] [Server thread/INFO]: Paper: Using Java cipher from Velocity.
+[12:32:13] [Server thread/INFO]: [WorldEdit] Loading server plugin WorldEdit v7.3.3+6788-6359df8
+[12:32:14] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@2e3d1684]
+[12:32:14] [Server thread/INFO]: [WorldEdit] Default configuration file written: config.yml
+[12:32:14] [Server thread/INFO]: [NoCheatPlus] Loading server plugin NoCheatPlus v3.17.1-SNAPSHOT-Updated-b198
+[12:32:14] [Server thread/INFO]: [NoCheatPlus] onLoad: Early set up of static API, configuration, logging.
+[12:32:14] [Server thread/INFO]: [NoCheatPlus] Logging system initialized.
+[12:32:14] [Server thread/INFO]: [NoCheatPlus] Detected Minecraft version: 1.20.4
+[12:32:14] [Server thread/INFO]: [KitsX] Loading server plugin KitsX v1.0.3
+[12:32:14] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:32:14] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.3.3+6788-6359df8
+[12:32:14] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[12:32:15] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[12:32:15] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.v1_20_R3.PaperweightAdapter as the Bukkit adapter
+[12:32:17] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:32:17] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:32:17] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:32:17] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:32:17] [Server thread/INFO]: Preparing level "world"
+[12:32:18] [Server thread/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[12:32:19] [Server thread/WARN]: Failed to parse level-type default, defaulting to minecraft:normal
+[12:32:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:32:21] [Server thread/INFO]: Time elapsed: 1222 ms
+[12:32:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:32:21] [Server thread/INFO]: Time elapsed: 211 ms
+[12:32:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:32:22] [Server thread/INFO]: Time elapsed: 143 ms
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] Enabling NoCheatPlus v3.17.1-SNAPSHOT-Updated-b198
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] McAccess set to: 1.13-1.21|? / Bukkit-API
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] Inventory checks: FastConsume is available, disabled InstantEat.
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] Packet level access: ProtocolLib is not available.
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] Force disable FastHeal, FastConsume, PacketFrequency and InstantBow on Minecraft 1.9 and later.
+[12:32:22] [Server thread/INFO]: [NoCheatPlus] Version 3.17.1-SNAPSHOT-Updated-b198 is enabled.
+[12:32:22] [Server thread/INFO]: [KitsX] Enabling KitsX v1.0.3
+[12:32:22] [Server thread/WARN]: java.lang.ClassNotFoundException: org.bukkit.event.EventExecutor
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass0(PluginClassLoader.java:197)
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.plugin.java.PluginClassLoader.loadClass(PluginClassLoader.java:164)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:490)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.Class.forName0(Native Method)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:463)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.Class.forName(Class.java:454)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.registerEvent(PaperCommodore.java:60)
+[12:32:22] [Server thread/WARN]: 	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:104)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.reflect.Method.invoke(Method.java:565)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.registerEventHandlerWithReflection(PaperCommodore.java:49)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.PaperCommodore.<init>(PaperCommodore.java:39)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.commodore.CommodoreProvider.getCommodore(CommodoreProvider.java:53)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.Utils.<init>(Utils.java:32)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.Utils.init(Utils.java:50)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.kitsx.KitsX.start(KitsX.java:59)
+[12:32:22] [Server thread/WARN]: 	at KitsX-1.0.3-all.jar//dev.darkxx.utils.library.wrapper.PluginWrapper.onEnable(PluginWrapper.java:37)
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPlugin.java:281)
+[12:32:22] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginInstanceManager.enablePlugin(PaperPluginInstanceManager.java:190)
+[12:32:22] [Server thread/WARN]: 	at io.papermc.paper.plugin.manager.PaperPluginManagerImpl.enablePlugin(PaperPluginManagerImpl.java:104)
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:507)
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugin(CraftServer.java:637)
+[12:32:22] [Server thread/WARN]: 	at org.bukkit.craftbukkit.v1_20_R3.CraftServer.enablePlugins(CraftServer.java:548)
+[12:32:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadWorld0(MinecraftServer.java:673)
+[12:32:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.loadLevel(MinecraftServer.java:433)
+[12:32:22] [Server thread/WARN]: 	at net.minecraft.server.dedicated.DedicatedServer.e(DedicatedServer.java:308)
+[12:32:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.w(MinecraftServer.java:1132)
+[12:32:22] [Server thread/WARN]: 	at net.minecraft.server.MinecraftServer.lambda$spin$0(MinecraftServer.java:321)
+[12:32:22] [Server thread/WARN]: 	at java.base/java.lang.Thread.run(Thread.java:1447)
+[12:32:23] [Server thread/INFO]: KitsX › The plugin has been successfully enabled, created by XyrisPlugins with ❤
+[12:32:23] [Server thread/INFO]: KitsX › Join our support server at https://xyris.fun/devs/
+[12:32:23] [Server thread/INFO]: KitsX › Buildable edition made by MarginSphydro (Minecraft IGN:mark_7601)
+[12:32:23] [Server thread/INFO]: KitsX › https://github.com/MarginSphydro/KitsX-Buildable
+[12:32:23] [Server thread/INFO]: Running delayed init tasks
+[12:32:23] [Craft Scheduler Thread - 3 - NoCheatPlus/INFO]: [NoCheatPlus] Added hook: ViolationFrequency(NCP) [1.0].
+[12:32:23] [Server thread/INFO]: [NoCheatPlus] Post-enable running...
+[12:32:23] [Server thread/INFO]: [NoCheatPlus] Post-enable finished.
+[12:32:23] [Server thread/INFO]: Done (12.544s)! For help, type "help"
+[12:32:23] [Server thread/INFO]: Timings Reset
+[12:32:30] [User Authenticator #0/INFO]: UUID of player MarginSphydro is 7ea3c5c3-6e35-36b7-9184-8698846a8f2a
+[12:32:30] [Server thread/INFO]: MarginSphydro joined the game
+[12:32:30] [Server thread/INFO]: MarginSphydro[/127.0.0.1:63787] logged in with entity id 164 at ([world]0.7105110734005774, 121.0, -0.4506739425908484)
+[12:32:32] [Server thread/INFO]: MarginSphydro issued server command: /gamemode creative
+[12:32:32] [Server thread/INFO]: [MarginSphydro: Set own game mode to Creative Mode]
+[12:32:33] [Server thread/INFO]: MarginSphydro issued server command: /kitsx:kit
+[12:32:46] [Server thread/INFO]: MarginSphydro issued server command: //pos1
+[12:32:48] [Server thread/INFO]: MarginSphydro issued server command: /gamemode spectator
+[12:32:48] [Server thread/INFO]: [MarginSphydro: Set own game mode to Spectator Mode]
+[12:32:59] [Server thread/INFO]: MarginSphydro issued server command: //pos12
+[12:33:00] [Server thread/INFO]: MarginSphydro issued server command: //pos2
+[12:33:03] [Server thread/INFO]: MarginSphydro issued server command: //set air
+[12:33:21] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18429ms or 368 ticks behind
+[12:33:21] [Server thread/INFO]: MarginSphydro issued server command: /gamemode creative
+[12:33:21] [Server thread/INFO]: [MarginSphydro: Set own game mode to Creative Mode]
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=27, y=190, z=94}
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=8, y=120, z=101}
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=32, y=196, z=93}
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=42, y=192, z=94}
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=45, y=190, z=94}
+[12:33:21] [Server thread/ERROR]: POI data mismatch: never registered at BlockPosition{x=42, y=192, z=95}
+[12:33:29] [Server thread/INFO]: MarginSphydro issued server command: /kill
+[12:33:29] [Server thread/INFO]: MarginSphydro was killed
+[12:33:29] [Server thread/INFO]: [MarginSphydro: Killed MarginSphydro]
+[12:33:32] [Server thread/INFO]: MarginSphydro issued server command: /kill
+[12:33:32] [Server thread/INFO]: MarginSphydro was killed
+[12:33:32] [Server thread/INFO]: [MarginSphydro: Killed MarginSphydro]
+[12:33:35] [Server thread/INFO]: MarginSphydro issued server command: /kitsx:kit
+[12:33:36] [Server thread/INFO]: MarginSphydro loaded Kit 1.
+[12:33:38] [Server thread/INFO]: MarginSphydro issued server command: /deop MarginSphydro
+[12:33:38] [Server thread/INFO]: [MarginSphydro: Made MarginSphydro no longer a server operator]
+[12:34:00] [Server thread/INFO]: MarginSphydro issued server command: /kitsx:kit
+[12:34:01] [Server thread/INFO]: MarginSphydro opened the Virtual Kit Room.
+[12:34:02] [Server thread/INFO]: MarginSphydro has made the advancement [Ice Bucket Challenge]
+[12:34:14] [Server thread/INFO]: MarginSphydro issued server command: /kill
+[12:34:16] [Server thread/INFO]: MarginSphydro issued server command: /suicide
+[12:34:19] [Server thread/INFO]: MarginSphydro was killed
+[12:34:19] [Server thread/INFO]: Killed MarginSphydro
+[12:34:32] [Server thread/INFO]: MarginSphydro lost connection: Disconnected
+[12:34:32] [Server thread/INFO]: MarginSphydro left the game

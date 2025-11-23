@@ -1,0 +1,615 @@
+premadekit:
+  inventory:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_PICKAXE
+    meta:
+      ==: ItemMeta
+      meta-type: UNSPECIFIC
+      enchants:
+        DIG_SPEED: 5
+        LOOT_BONUS_BLOCKS: 3
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: OBSIDIAN
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: ENCHANTED_GOLDEN_APPLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: PISTON
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: REDSTONE_BLOCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: RESPAWN_ANCHOR
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: ENDER_PEARL
+    amount: 16
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: ENDER_CHEST
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: END_CRYSTAL
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: GLOWSTONE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: PISTON
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: REDSTONE_BLOCK
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: COBWEB
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: EXPERIENCE_BOTTLE
+    amount: 64
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        DEPTH_STRIDER: 3
+        PROTECTION_FALL: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        WATER_WORKER: 1
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        OXYGEN: 3
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+  armor:
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_BOOTS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        DEPTH_STRIDER: 3
+        PROTECTION_FALL: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_LEGGINGS
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_CHESTPLATE
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  - ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: NETHERITE_HELMET
+    meta:
+      ==: ItemMeta
+      meta-type: ARMOR
+      enchants:
+        WATER_WORKER: 1
+        PROTECTION_EXPLOSIONS: 4
+        MENDING: 1
+        OXYGEN: 3
+        DURABILITY: 3
+        VANISHING_CURSE: 255
+  offhand:
+    ==: org.bukkit.inventory.ItemStack
+    v: 3700
+    type: TOTEM_OF_UNDYING
+kits:
+  MarginSphydro:
+    inventory:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    armor:
+    - null
+    - null
+    - null
+    - null
+    offhand:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: AIR
+      amount: 0
+  '1':
+    inventory:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    armor:
+    - null
+    - null
+    - null
+    - null
+    offhand:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: AIR
+      amount: 0
+  '2':
+    inventory:
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    armor:
+    - null
+    - null
+    - null
+    - null
+    offhand:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: AIR
+      amount: 0
+  SMP:
+    inventory:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: PISTON
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: REDSTONE_BLOCK
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: RESPAWN_ANCHOR
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: RESPAWN_ANCHOR
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: REDSTONE_BLOCK
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: ENCHANTED_GOLDEN_APPLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: ENDER_PEARL
+      amount: 16
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: COBWEB
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: PISTON
+      amount: 64
+    - null
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: TOTEM_OF_UNDYING
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: TOTEM_OF_UNDYING
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: EXPERIENCE_BOTTLE
+      amount: 64
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          DEPTH_STRIDER: 3
+          PROTECTION_FALL: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          WATER_WORKER: 1
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          OXYGEN: 3
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
+    armor:
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_BOOTS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          DEPTH_STRIDER: 3
+          PROTECTION_FALL: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_LEGGINGS
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_CHESTPLATE
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    - ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: NETHERITE_HELMET
+      meta:
+        ==: ItemMeta
+        meta-type: ARMOR
+        enchants:
+          WATER_WORKER: 1
+          PROTECTION_EXPLOSIONS: 4
+          MENDING: 1
+          OXYGEN: 3
+          DURABILITY: 3
+          VANISHING_CURSE: 255
+    offhand:
+      ==: org.bukkit.inventory.ItemStack
+      v: 3700
+      type: END_CRYSTAL
+      amount: 64
