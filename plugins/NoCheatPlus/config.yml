@@ -66,7 +66,7 @@ checks:
     fastplace:
       actions: cancel vl>5 cancel log:fastplace:8:3:i vl>20 cancel log:fastplace:2:4:i
         vl>80 cancel log:fastplace:0:10:if
-      active: true
+      active: false
       improbable:
         feedonly: false
         weight: 0.3
@@ -107,7 +107,7 @@ checks:
       improbable:
         feedonly: false
         weight: 0.3
-      interval: 35
+      interval: 5
   chat:
     active: default
     captcha:
