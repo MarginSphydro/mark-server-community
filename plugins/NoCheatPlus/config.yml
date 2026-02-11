@@ -103,7 +103,7 @@ checks:
       toolswitch: true
     speed:
       actions: cancel vl>100 log:bpspeed:6:7:i cancel vl>1000 log:bpspeed:3:5:if cancel
-      active: true
+      active: false
       improbable:
         feedonly: false
         weight: 0.3
